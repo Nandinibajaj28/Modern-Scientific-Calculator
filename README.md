@@ -1,7 +1,23 @@
-# Modern Scientific Calculator 🧮
+# Modern Scientific Calculator: Airthmetica
 
-A modern and responsive scientific calculator built with **HTML**, **CSS**, and **JavaScript**.  
-This project demonstrates clean UI design, modular structure, and basic + scientific calculation features.
+A simple calculator for your complex maths.  
+
+![Tech Logos](https://skillicons.dev/icons?i=html,css,js,vercel)
+
+---
+
+## 🚀 See it in Action  
+👉 [Live Demo](#)
+
+---
+
+## ❄️ Introduction
+**My Calculator** is a simple, user-friendly calculator designed to tackle complex math with ease.  
+Explore the codebase to discover more.
+
+<p align="center">
+  <img src="screenshot.png" alt="Calculator Screenshot" width="400"/>  
+</p>
 
 ---
 
@@ -14,16 +30,11 @@ This project demonstrates clean UI design, modular structure, and basic + scient
 
 ---
 
-## 📂 Project Structure
+## 🛠 Tech Stack
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) – structuring  
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) – styling  
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – functionality  
+- [Git](https://git-scm.com/) – version control   
+- [Vercel](https://vercel.com/) – deployment  
 
----
 
-## 🖼 Preview
-![Screenshot](screenshot.png)
-
----
-
-## ⚡ Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nandinibajaj28/Modern-Scientific-Calculator.git
