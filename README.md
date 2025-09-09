@@ -5,6 +5,7 @@
 <p align="center">
   <img src="banner.png" alt="Calculator banner" width="400"/>  
 </p>
+
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
