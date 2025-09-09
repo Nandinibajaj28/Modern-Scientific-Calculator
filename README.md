@@ -3,11 +3,12 @@
 <p align="center">A simple calculator for your complex maths.</p>
 
 <p align="center">
+  <img src="banner.png" alt="Calculator banner" width="400"/>  
+</p>
+<p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
   <img src="https://img.icons8.com/color/96/000000/javascript.png"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="80"/>
-  <img src="https://assets.vercel.com/image/upload/v1662130559/front/zeit/nextjs.png" width="80"/>
 </p>
 
 <p align="center">
@@ -23,16 +24,11 @@
 
 ---
 
-<h3 align="center">👀 <a href="https://your-live-demo-link.com">See it in Action</a> »</h3>
+<h3 align="center">👀 <a href="https://airthmetica-calculator.vercel.app/">See it in Action</a> »</h3>
 
 ---
 
-## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Development Setup](#development-setup)
-- [Contributing](#contributing)
+[Introduction](#introduction) · [Features](#features) · [Tech Stack](#tech-stack) 
 
 ---
 
