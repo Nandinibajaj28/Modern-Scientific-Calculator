@@ -57,6 +57,10 @@ Explore the codebase to discover more.
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) – styling  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – functionality  
 - [Git](https://git-scm.com/) – version control   
-- [Vercel](https://vercel.com/) – deployment  
+- [Vercel](https://vercel.com/) – deployment
+
+## 📄 License
+This project is licensed under the [GPL-3.0 License](LICENSE).
+
 
 
