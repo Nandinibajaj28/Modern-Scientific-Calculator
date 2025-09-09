@@ -1,15 +1,41 @@
-# Modern Scientific Calculator: Airthmetica
+<h1 align="center">Arithmetica</h1>
 
-A simple calculator for your complex maths.  
+<p align="center">A simple calculator for your complex maths.</p>
 
-![Tech Logos](https://skillicons.dev/icons?i=html,css,js,vercel)
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="80"/>
+  <img src="https://assets.vercel.com/image/upload/v1662130559/front/zeit/nextjs.png" width="80"/>
+</p>
+
+<p align="center">
+  <a href="mailto:nandinibajaj1221@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nandinibajaj1221@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg"/>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
+</p>
 
 ---
 
-## 🚀 See it in Action  
-👉 [Live Demo](#)
+<h3 align="center">👀 <a href="https://your-live-demo-link.com">See it in Action</a> »</h3>
 
 ---
+
+## 📌 Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Development Setup](#development-setup)
+- [Contributing](#contributing)
+
+---
+
 
 ## ❄️ Introduction
 **My Calculator** is a simple, user-friendly calculator designed to tackle complex math with ease.  
